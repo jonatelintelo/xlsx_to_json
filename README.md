@@ -1,6 +1,8 @@
 # Convert .xlsx files to .json files
 
-Requirements are python and pandas package.
+Requirements are Python version 3.12.2 and Pandas.
+
+Install Pandas with terminal command: ```pip install pandas```
 
 Put the file to be converted in the [data](data) folder.
 In your terminal, navigate to the repository folder.
