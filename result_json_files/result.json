@@ -1,0 +1,51 @@
+{
+  "obligors": [
+    {
+      "number": "String",
+      "source_system_code": "String",
+      "start_DateTime": "String",
+      "end_DateTime": "DateTime",
+      "status_code": "String",
+      "asset_class_code": "String",
+      "trigger_treatment_asset_class_code": "String",
+      "rating_owner_business_unit_code": "String",
+      "global_parties": [
+        {
+          "number": "String",
+          "full_legal_name": "String",
+          "obligor_composition_member_role_codes": "String"
+        }
+      ],
+      "rating_owner_sub_unit_code": "String",
+      "world_wide_id": "String",
+      "type_code": "String",
+      "total_on_balance_outstanding_amount": "String",
+      "naics_code": "String",
+      "onboarding_DateTime": "String"
+    }
+  ],
+  "obligors2": [
+    {
+      "number": "String",
+      "source_system_code": "String",
+      "start_DateTime": "String",
+      "end_DateTime": "DateTime",
+      "status_code": "String",
+      "asset_class_code": "String",
+      "trigger_treatment_asset_class_code": "String",
+      "rating_owner_business_unit_code": "String",
+      "global_parties": [
+        {
+          "number": "String",
+          "full_legal_name": "String",
+          "obligor_composition_member_role_codes": "String"
+        }
+      ],
+      "rating_owner_sub_unit_code": "String",
+      "world_wide_id": "String",
+      "type_code": "String",
+      "total_on_balance_outstanding_amount": "String",
+      "naics_code": "String"
+    }
+  ]
+}
